@@ -8,3 +8,5 @@ Impressions:
 
 This was cool. Funny when they talk about this in Silicon Valley
 too! 
+
+This is a working Huffman compression program. 
